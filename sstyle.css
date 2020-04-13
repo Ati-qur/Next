@@ -1,0 +1,78 @@
+body{font-family: 'Lacquer', sans-serif;
+    margin: 0;
+}
+h1 {font-size: 50px;}
+
+ .orange-highlight{color: rgb(255, 192, 74);}
+
+.first-right img{width: 100%;}
+.section-one{background-image: url(new/header-bg.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;}
+
+section{height: 800px;}
+
+
+.para{color: darkolivegreen;}
+.first-right{width: 40%;
+    float: left;  padding-right: 50px; padding-top: 70px;padding-bottom: 3%;
+    padding-left:  50px;
+     }
+     
+
+    #img-first{width: 28%;
+        float: left;
+    padding: 10px;}
+
+        #img-second{width: 28%;
+            float: left;
+        padding: 10px;}
+
+            #img-third{width: 28%;
+                float: left;
+            padding: 10px;}
+    
+    #aa{text-align: center;}
+    .section-three{background-image: url(new/latest-work-bg.png);
+        background-size: 100% auto;}
+   
+    .tope{margin-left:11% }
+    .first-left{  width: 40%;
+        float: left;  padding-top: 100px;padding-bottom: ;
+        padding-left:  110px;
+        }
+        .second-left{width: 40%;
+            float: right;padding-right: 30px; padding-top: 70px;padding-bottom: 3%;
+            padding-left:  50px;
+            }
+            .section-two{background-image: url(new/footer-bg.png);
+                background-size: 100% auto;
+                background-repeat: no-repeat;}
+                .second-right{padding-left: 170px; padding-top: 70px;
+                     }
+                     .section-four{background-image: url(new/footer-bg.png);}
+                     .third{text-align: center;}
+                     #ab{font-size: 36px;}
+                     #ac{font-size: 11px; color: grey;}
+                     #ad{text-align: center;
+                    padding-bottom: 50px;}
+                     
+.fourth{text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(228, 61, 243),rgb(245, 68, 127));
+    height: 150px;
+    width: 600px;
+color: white;
+border-radius: 6px;
+text-align: center;
+padding-top: 10px;
+margin-left: 380px;}
+footer p{text-align:center;
+    font-size: 15px;}
+    .link-button{text-decoration: none;
+        background-image: linear-gradient(45deg,rgb(228, 61, 243),rgb(245, 68, 127));
+    padding: 11px 22px;
+    color: white;
+    border-radius: 6px;}
+    #af{padding-bottom: 50px;
+    color:  grey;}
+   
